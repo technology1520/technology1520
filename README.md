@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Arin Khandelwal</h1>
 <h3 align="center">Translating Data into actionable insights</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2918596/screenshots/6783174/seo.gif">
+<img src="https://cdn.dribbble.com/users/2918596/screenshots/6783174/seo.gif" align="right" alt="Coding" width="400" />
 
 - 🔭 I’m currently working on **Datasets**
 
