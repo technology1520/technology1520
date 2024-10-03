@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Datasets**
 
-- 🌱 I’m currently learning **Python,SQL,Hadoop,Apache Kafak**
+- 🌱 I’m currently working on **SQL,Python,Tableau,Power Bi,Azure and other Analytics and Engineering framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/technology1520](https://github.com/technology1520)
 
